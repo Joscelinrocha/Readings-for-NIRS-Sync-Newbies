@@ -27,4 +27,4 @@ For a full list of readings and their descriptions, please refer to this [Google
 
 ## Contribution
 
-If you have suggestions for improving this list or additional resources to recommend, we encourage you to contribute! Please reach out through [insert contact details or submission process] to submit new resources or provide feedback.
+If you have suggestions for improving this list or additional resources to recommend, we encourage you to contribute!
